@@ -7,12 +7,8 @@ categories:
   - biography
   - definition
 tags:
-  - Alan Kay
-  - Ivan Sutherland
-  - Bret Victor
-  - Dynabook
-  - Smalltalk
-  - Xerox Alto
+  - Douglas Engelbart
+  - computer mouse
 gallery:
   - image_url: /images/Douglas-Engelbart-mouse.jpg
     caption: "Το ποντίκη υπολογιστή που χρησιμοποιήται ευρέως σήμερα είναι δημιουργία του Douglas Engelbart το 1968 με στόχο να γίνει η επίδραση με τον υπολογιστή ποιό εύκολη ώστε να βασίζεται περισσότερος χρόνος στην επίλυση προβλημάτων σε αυτόν."
